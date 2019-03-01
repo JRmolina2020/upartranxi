@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css?family=Francois+One');
+body{
+    font-family: 'Francois One', sans-serif;
+background:rgb(242, 243, 231);
+
+}
+
+table, td, th {    
+    border: 0px solid #000;
+    text-align: center;
+}
+
+p{
+color:rgb(rgb(221, 8, 8))
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 6px;
+}
+
+th{
+	background:rgb(233, 229, 0);
+	color:#000;
+}
